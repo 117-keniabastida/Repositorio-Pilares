@@ -1,0 +1,5 @@
+Observaciones de repositorios privados y públicos 
+
+Un repositorio público puede ser visto por cualquiera, incluso por personas que no son usuarios de GitHub. 
+
+Los repositorios privados solo son visibles para el propietario del repositorio y los colaboradores que el propietario especifique. 

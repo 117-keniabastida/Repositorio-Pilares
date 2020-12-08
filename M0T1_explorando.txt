@@ -1,0 +1,18 @@
+GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git.
+El código se almacena de forma pública, aunque también se puede hacer de forma privada.
+El sistema de control de versiones ayuda a registrar los cambios realizados al código. Aún más, registra quién realizó los cambios y puede restaurar el código borrado o modificado.
+No hay códigos sobrescritos ya que Git guarda varias copias en el repositorio.
+
+Un repositorio es un directorio donde se almacenan los archivos de tu proyecto. Puede estar ubicado en el almacenamiento de GitHub o en un repositorio local en tu computadora. Puedes almacenar archivos de código, imágenes, audios o todo lo relacionado con el proyecto en el repositorio.
+
+Branch, que se traduce como rama, es una copia de tu repositorio. Puedes utilizar la rama cuando quieras hacer un desarrollo de forma aislada.
+Trabajar en una rama no afectará el repositorio central u otras ramas. Si has completado el trabajo, puedes combinar tu rama con otras ramas y con el repositorio central mediante una pull request.
+
+Pull request significa que les informas a los demás que has enviado al repositorio principal el cambio que hiciste en una rama. Los colaboradores del repositorio pueden aceptar o rechazar una pull request. Una vez abierta, puedes discutir y revisar tu trabajo con los colaboradores.
+
+Un archivo README suele ser el primer elemento que verá un visitante cuando entre a tu repositorio. Los archivos README habitualmente incluyen información sobre:
+~ Qué hace el proyecto.
+~ Por qué el proyecto es útil.
+~ Cómo pueden comenzar los usuarios con el proyecto.
+~ Dónde pueden recibir ayuda los usuarios con tu proyecto
+~ Quién mantiene y contribuye con el proyecto.
